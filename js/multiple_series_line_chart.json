@@ -3,7 +3,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/Dataset/multiple_series_line_chart_dataset.csv"
   },
-  "width": 920,
+  "width": "container",
   "height": 490,
   "background": "#FAF8F5",
   "encoding": {"x": {"field": "Year", "type": "ordinal", "axis": {
