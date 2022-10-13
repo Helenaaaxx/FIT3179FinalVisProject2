@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "#FAF8F5",
-  "width": 900,
+  "width": "container",
   "height": 450,
   "data": {
     "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179_VisProject2/main/Dataset/bump_chart_dataset.csv"
