@@ -78,7 +78,7 @@
         },
         "tooltip": [
           {"field": "Causes of Death", "type": "nominal"},
-          {"field": "Number of Persons", "type": "quantitative", "format": ","},
+          {"field": "Number of Persons", "type": "quantitative", "format": ",", "title": "Number of Deaths"},
           {"field": "Year", "type": "ordinal"}
         ]
       }
