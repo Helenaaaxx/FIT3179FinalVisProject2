@@ -19,7 +19,7 @@
       "type": "nominal",
       "title": "State",
       "axis": {
-        "labelAngle": 225,
+        "labelAngle": 300,
         "titleFontSize": 18,
         "labelFontSize": 14
       }
