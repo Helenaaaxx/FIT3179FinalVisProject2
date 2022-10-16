@@ -18,18 +18,26 @@
       "field": "States",
       "type": "nominal",
       "title": "State",
-      "axis": {"labelAngle": 270}
+      "axis": {
+        "labelAngle": 225,
+        "titleFontSize": 18,
+        "labelFontSize": 14
+      }
     },
     "y": {
       "field": "Type",
       "type": "nominal",
       "title": "Types of Cerebrovascular Diseases",
-      "axis": {"labelLimit": 196}
+      "axis": {
+        "titleFontSize": 18,
+        "labelFontSize": 11,
+        "labelLimit": 196
+      }
     },
     "color": {
       "field": "Number of Deaths",
       "type": "quantitative",
-      "legend": {"title": "Number of Deaths"},
+      "legend": {"title": "Number of Deaths", "titleFontSize": 18, "labelFontSize": 12},
       "scale": {"scheme": "redpurple", "domain": [0,2000]}
     },
     "tooltip": [
