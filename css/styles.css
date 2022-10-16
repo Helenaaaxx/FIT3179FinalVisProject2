@@ -153,6 +153,13 @@ body {
   font-weight: bolder;
 }
 
+/* green text */
+.green_medium_text {
+  color: #4A824B;
+  font-size: larger;
+  font-weight: bolder;
+}
+
 /* bump chart tasmania text */
 .tasmania_text {
   color: #CD839C;
