@@ -160,6 +160,13 @@ body {
   font-weight: bolder;
 }
 
+/* blue text */
+.blue_medium_text {
+  color: #03468F;
+  font-size: larger;
+  font-weight: bolder;
+}
+
 /* bump chart tasmania text */
 .tasmania_text {
   color: #CD839C;
