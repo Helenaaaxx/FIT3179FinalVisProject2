@@ -47,7 +47,7 @@
       {"field": "Type", "type": "nominal"},
       {"field": "Number of Deaths", "type": "quantitative", "format": ","},
       {"field": "Year", "type": "ordinal", "timeUnit": "year", "title": "Year"},
-      {"field": "States", "type": "nominal"}
+      {"field": "State", "type": "nominal"}
     ]
   },
   "params": [
